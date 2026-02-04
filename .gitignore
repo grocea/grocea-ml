@@ -1,0 +1,4 @@
+# Ignore all data and models
+/data/raw/
+/data/processed/
+/models/
